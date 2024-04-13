@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 setup(
     name="insightgrid",
     version="0.1",
-    author="Your Name",
+    author="Harshal Panchal",
     author_email="contact@itsmeharshal.com",
     description="A Python library for automating Exploratory Data Analysis (EDA) tasks.",
     long_description=long_description,
