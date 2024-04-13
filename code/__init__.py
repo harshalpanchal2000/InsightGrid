@@ -1,1 +1,1 @@
-from .eda_steps_functions import generate_report
+from .main import generate_report
